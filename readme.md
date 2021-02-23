@@ -1,6 +1,6 @@
 # HolyShit
 
-An epic Custom Map for Rust. Instead of a mono-island with a few bays, this map is handcrafted int oseveral larger islands connected by bridges. Many of the known monuments are flooded or under water. The small Oilrig is in the middle of the central lagoon, the Cargoship passes under three giant bridges. The map is navigable by boat and car as well. 
+An epic Custom Map for Rust. Instead of a mono-island with a few bays, this map is handcrafted into several larger islands connected by bridges. Many of the known monuments are flooded or under water. The Small Oilrig is in the middle of the central lagoon, the Cargoship passes under three giant bridges between the islands. This map is navigable by boat and car as well. 
 
 ![Holy Shit](images/1.jpg)
 
