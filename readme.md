@@ -20,7 +20,7 @@ An epic Custom Map for Rust. Instead of a mono-island with a few bays, this map 
 
 ## CargoEgressFix Plugin
 
-Since the CargoShip path leads through the map in between islands [a custom plugin is provided](./CargoEgressFix.cs) to prevent the CargoShip from climming through the terrain on egress. 
+Since the CargoShip path leads through the map in between islands [a custom plugin is provided](./CargoEgressFix.cs) to prevent the CargoShip from clipping through the terrain on egress. 
 
 ## Trains Config
 
